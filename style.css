@@ -423,7 +423,7 @@ font-size: 20px;
     width: fit-content;
     border: 1px solid #06c941;
     padding: 14px 50px;
-    border-radius: 6px;
+    border-radius: 116px;
     text-decoration: none;
     color: #ffffff;
     transition: background 0.5s;
@@ -746,6 +746,18 @@ form .btn2{
         left: 25px;
         cursor: pointer;
     }
+
+    /* .btn {
+        display: inline-block;
+        padding: 1rem 2.8rem;
+        background: #06c941;
+        border-radius: 4rem;
+        box-shadow: 0 0 1rem;
+        font-size: 1.6rem;
+        color: #fff;
+        letter-spacing: .1rem;
+        font-weight: 600;
+    } */
 
     .sub-title {
         font-size: 40px;
