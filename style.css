@@ -409,6 +409,10 @@ font-size: 20px;
     text-align: center;
 }
 
+.layer p{
+    font-size: 13px;
+}
+
 .work:hover img{
  transform: scale(1.1);
 }
