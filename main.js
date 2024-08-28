@@ -107,7 +107,7 @@
 
     // typewriter
     const typed = new Typed('.multiple-text', {
-        strings: ['UI/UX Designer', 'Graphic Designer', 'Front-End Developer'],
+        strings: ['UI/UX Engineer', 'Graphic Designer'],
             typeSpeed: 120,
             backSpeed: 120,
             loop: true
